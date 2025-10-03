@@ -111,9 +111,9 @@
   ],
   "teaching": [
     {
-      "name": "Teaching Assistant",
-      "date": "2023 and 2025",
-      "summary": "Co-designed and led the discussion section of a doctoral course of Machine Learning in Biomedical Applications; provided programming support and English academic writing guidance."
+      "title": "Teaching Assistant for Machine Learning in Biomedical Applications",
+      "year": "2025",
+      "description": "Co-designed and led the discussion section of a doctoral course of Machine Learning in Biomedical Applications; provided programming support and English academic writing guidance."
     }
   ],
   "awards": [

@@ -30,6 +30,6 @@ Hi! I am an AI engineer and clinical psychologist passionate about advancing men
 
 I am currently a research scientist at the [Laboratory of AI in Predictive Medicine](https://changlab-ntu.jimdosite.com/) at National Taiwan University (NTU). Alongside this, I serve as a AI engineer at [Brainmate](https://www.dementia-ai.com/), where I contribute to developing AI-powered rehabilitation tools that support dementia care.
 
-I hold a master’s degree in Medical Device & Imaging from NTU, where I conducted research under the supervision of Prof. Gary Han Chang on deep generative models for explainable AI, anomaly detection and isotropic enhancement in medical imaging. In parallel, I am pursuing a second master’s degree in Counseling & Clinical Psychology at National Dong Hwa University.
+I hold a BS in psychology and MS in Medical Device & Imaging from NTU, where I conducted research on deep generative models for explainable and personalized AI. In parallel, I am pursuing a second master’s degree in Counseling & Clinical Psychology at National Dong Hwa University.
 
 Outside of work, I enjoy cooking and hosting friends around the table, I’ve also earned a culinary certification.

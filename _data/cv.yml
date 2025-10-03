@@ -61,6 +61,17 @@
       institution: University of Zurich, Zurich, Switzerland
       year: 1909 - 1911
 
+- title: Teaching
+  type: time_table
+  contents:
+    - title: Teaching Assistant for Machine Learning in Biomedical Applications
+      institution: [Your University Name]
+      year: 2025
+      description:
+        - Co-designed and led the discussion section of a doctoral course
+        - Provided programming support and English academic writing guidance
+        - Taught doctoral students in biomedical applications
+
 - title: Open Source Projects
   type: time_table
   contents:
