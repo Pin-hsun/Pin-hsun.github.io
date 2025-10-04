@@ -4,7 +4,7 @@ title: Summer workshop for abused children
 description:
 img: assets/img/projects/group1.jpg
 importance: 1
-category: volunteer
+category: psychology
 related_publications: false
 ---
 
