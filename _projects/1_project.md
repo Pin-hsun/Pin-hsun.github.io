@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Summer workshop for abused children
+title: Workshop for abused children
 description:
 img: assets/img/projects/group1.jpg
 importance: 1

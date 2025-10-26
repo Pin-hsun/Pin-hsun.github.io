@@ -5,7 +5,7 @@ permalink: /projects/
 description:
 nav: true
 nav_order: 5
-display_categories: [psychology, cooking]
+display_categories: [psychology, AI]
 horizontal: false
 ---
 
